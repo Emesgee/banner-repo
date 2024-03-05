@@ -4,4 +4,8 @@ This repo is inspired by Palestine Banner, which is a tool used to create banner
 This repository holds the JS and CSS for the banners.
 
 
+// Free Palestine!
+
+
+
 
